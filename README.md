@@ -1,2 +1,7 @@
-# calculadora-simples-web
-Testando o js
+# Calculadora Simples
+
+Calculadora feita com:
+
+- HTML
+- TailwindCSS
+- JavaScript
